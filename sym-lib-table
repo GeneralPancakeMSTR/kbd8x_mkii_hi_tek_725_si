@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "mx")(type "KiCad")(uri "E:/Design/KiCad/mx.kicad_sym")(options "")(descr ""))
+  (lib (name "Type-C")(type "Legacy")(uri "E:/Design/KiCad/Type-C.pretty/Type-C.lib")(options "")(descr ""))
+  (lib (name "random-keyboard-parts")(type "Legacy")(uri "E:/Design/KiCad/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
+)
