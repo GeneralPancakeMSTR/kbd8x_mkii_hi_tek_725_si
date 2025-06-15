@@ -301,7 +301,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/28c27ce4-4f73-4864-9a5e-9644db1a6291")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -14.2875 -9.525)
 			(end 14.2875 -9.525)
@@ -437,7 +437,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/0ab21cb2-6871-4b18-ab1c-077ca79ae564")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -573,7 +573,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/499e57e8-6318-4e70-9b7b-a9fa0b64dd66")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -21.43125 -9.525)
 			(end 21.43125 -9.525)
@@ -709,7 +709,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/c96d27e3-8aae-4e1c-aed0-88c437abd6b7")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -845,7 +845,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/3e217a03-bb33-4076-803c-e0ed7aa1edf1")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -981,7 +981,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/8a617caa-08ad-44a9-a384-b9a7e264664a")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -1117,7 +1117,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/f32dde3b-f45f-4c09-879d-b8d052811524")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -1253,7 +1253,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/e1dd821d-75e6-4b51-9b94-acda9db9ebfa")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -1389,7 +1389,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/fce3f471-fe63-4d50-91cf-b93746550bb7")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -1525,7 +1525,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/7b01669d-821e-4aaf-b3b2-a576ecbf21bf")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -1661,7 +1661,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/df810bb3-2aad-4d69-9989-7e3556c336a5")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -23.8125 0)
 			(end -23.8125 19.05)
@@ -1817,7 +1817,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/8b60a002-3820-47b6-ab97-c60456f7bd84")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -1953,7 +1953,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/823e8385-605a-4e9e-bead-002b230cbe51")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -2089,7 +2089,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/1af8963d-84b3-430c-9f4c-3b2f4ac2186c")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -2225,7 +2225,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/28b1e7aa-2dbd-4d2f-9bdf-399112910501")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -2497,7 +2497,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/e24b9831-da38-4859-9f7d-323e97d151fe")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -2769,7 +2769,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/4601bfab-3226-4922-86db-a2d5e83943be")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -2905,7 +2905,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/44537d03-07be-47f0-92ea-28584d569f41")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -3177,7 +3177,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/ba8d0d36-4a74-44b2-9a62-36b7c53cf5be")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -3313,7 +3313,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/51fb088f-891d-428d-a88d-e06ddd9cc6b9")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -3449,7 +3449,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/01398672-82d1-4a48-a7e3-7eafcc66b4c1")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -3585,7 +3585,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/65753646-c5f8-414f-b913-a8244b2c0119")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -3721,7 +3721,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/3eda0c11-b28a-485d-96c3-550a77c15c8f")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -16.66875 -9.525)
 			(end 16.66875 -9.525)
@@ -3857,7 +3857,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/e103d10b-0428-47df-a86f-a35516f74e07")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -3993,7 +3993,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/c137b83f-307d-4440-9f8c-7a9da648d1d1")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -4129,7 +4129,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/5e3f8077-6db0-440d-af78-d3716f3e9b99")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -4265,7 +4265,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/78070946-8fdb-4b67-8eb6-542b6a5e252a")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -4401,7 +4401,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/3f088c23-d797-44ca-a1a1-436f37e2bbfe")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -4537,7 +4537,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/84e4924f-856c-44a3-8131-ffb0445620dc")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -4673,7 +4673,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/ce4d8599-cb9f-4bcc-a53c-20637ed58a73")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -4809,7 +4809,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/7003df1e-5ec1-4e92-bbdd-4a05c3a70240")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -4945,7 +4945,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/a5995ea7-156d-412d-96f7-a3e2fcffae68")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -5081,7 +5081,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/23464923-97f1-4c9b-b0c3-fd6f0f82ce7c")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -5217,7 +5217,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/a844b7d4-9bee-4613-9a13-0fcc4ff515b8")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -5353,7 +5353,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/50f89c7a-7943-426d-8971-2cb358353a87")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -14.2875 -9.525)
 			(end 14.2875 -9.525)
@@ -5489,7 +5489,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/9535eb46-270c-4cea-8dc3-a0343f3f2b34")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -5761,7 +5761,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/8a762be5-bc18-4acf-b4e4-efd56471191e")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -5897,7 +5897,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/744f39ba-b6a2-4b7f-bec4-3103a5afeb7a")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -66.675 -9.525)
 			(end 66.675 -9.525)
@@ -6033,7 +6033,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/d9d6c622-0f88-424a-b24a-95a7e579f82a")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -6577,7 +6577,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/f8723fe2-7301-4316-ba80-8205e2c417a6")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -6713,7 +6713,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/697b3d62-b212-4ed2-8576-d2d1cde6f38c")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -14.2875 -9.525)
 			(end 14.2875 -9.525)
@@ -6849,7 +6849,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/963a7bcb-e94a-4e30-bc89-38dca2d4897f")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -6985,7 +6985,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/e195a37c-8add-4fa5-95b6-06f99446c97a")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -7121,7 +7121,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/72feb6b6-824f-4983-a1ac-0b1a374b88ec")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -7257,7 +7257,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/d4354ccf-cb11-4b26-9792-6e9082f65532")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -7529,7 +7529,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/e74ab328-0261-460a-af51-f54dc79a7768")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -7665,7 +7665,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/90ed851e-5e00-42d6-93d6-8be10ca2dc8e")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -26.19375 -9.525)
 			(end 26.19375 -9.525)
@@ -8073,7 +8073,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/c85afaed-fa66-43fa-9096-d2926a0e9d50")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -8345,7 +8345,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/41d31f94-e91b-4a01-9c5c-e599c5d97276")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -8889,7 +8889,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/e8c9705a-003f-4066-a858-4bbc1ba305f0")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -14.2875 -9.525)
 			(end 14.2875 -9.525)
@@ -9025,7 +9025,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/4cf17e99-20d5-486a-b5ed-729beb3f1855")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -9297,7 +9297,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/418e7f14-b174-46c3-b331-3ce001967671")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -9433,7 +9433,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/26e38ac2-a755-42f6-be35-67f62fbf0ad4")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -9705,7 +9705,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/a831b154-77a9-4273-9dc7-33da8a4d508a")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -9841,7 +9841,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/57faccf5-6932-454d-97e9-dfc2960f9e8c")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -10113,7 +10113,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/fe88e4ac-ed1f-4a59-aa16-6654bf933c95")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -14.2875 -9.525)
 			(end 14.2875 -9.525)
@@ -10249,7 +10249,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/c4ac2ef7-1a95-40ba-b2f4-2b433ab220ec")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -21.43125 -9.525)
 			(end 21.43125 -9.525)
@@ -10385,7 +10385,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/cc1a1921-65de-4392-a3f0-786e721f1c60")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -10521,7 +10521,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/d257601f-dab2-4a1d-9d51-91cf2276efe5")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -10793,7 +10793,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/c4753481-fc59-407e-a8ba-b4f78d532872")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -10929,7 +10929,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/aa2eba40-4bb7-4944-811b-299668486e0b")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -11473,7 +11473,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/a0022b72-ac48-4a42-83be-2b39bb25d7f5")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -11609,7 +11609,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/54299a20-a6e7-4500-b6a0-f53e3d5ce832")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -11745,7 +11745,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/7dc7ee44-d99e-446f-b9e1-2ec63d535630")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -11881,7 +11881,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/bb4aac72-e01f-4725-8cf8-861c055eacd8")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -12153,7 +12153,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/c355212e-122e-4f90-a5b4-afb4d6b708c2")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -12289,7 +12289,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/d2ad9df3-a386-4f84-954f-9f37b66eca19")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -9.525 -9.525)
 			(end 9.525 -9.525)
@@ -12459,7 +12459,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/68ee6f6e-798d-428b-9692-779207de4316")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -12661,7 +12661,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/fecef1ff-69e1-436b-ba3f-10ffdae88e3f")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -12863,7 +12863,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/a9d61917-78f1-4822-afd3-1595575b44d9")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -13052,7 +13052,7 @@
 		(path "/aa76613c-bad5-44de-abd1-990988f8723b")
 		(sheetname "/")
 		(sheetfile "kbd8x_mkii_kicad_9.0.kicad_sch")
-		(attr smd exclude_from_pos_files)
+		(attr smd)
 		(fp_line
 			(start -0.261252 0.735)
 			(end 0.261252 0.735)
@@ -13283,7 +13283,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/696d08e2-fbb9-4a56-857f-859a3f2010b8")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -13485,7 +13485,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/5ed9f49a-cf1d-4d6e-9d96-bfe28c247674")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -13687,7 +13687,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/10a00c5c-4928-4bc8-b860-b1eb1be41a17")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -13876,7 +13876,7 @@
 		(path "/919ec82d-91dd-451a-806a-41fad2166765")
 		(sheetname "/")
 		(sheetfile "kbd8x_mkii_kicad_9.0.kicad_sch")
-		(attr smd exclude_from_bom)
+		(attr smd exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -0.602064 0.91)
 			(end 0.602064 0.91)
@@ -14107,7 +14107,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/c96b7d44-b5ee-45fd-9556-425e357670b4")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -14309,7 +14309,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/c5703e10-3b0e-4944-ae5f-756f54abd8be")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -14498,7 +14498,7 @@
 		(path "/361b4069-fd00-496e-ba57-fdf69d8d8223")
 		(sheetname "/")
 		(sheetfile "kbd8x_mkii_kicad_9.0.kicad_sch")
-		(attr smd exclude_from_bom)
+		(attr smd exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -0.261252 0.735)
 			(end 0.261252 0.735)
@@ -14729,7 +14729,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/71357117-89f8-4327-87cc-4564e90fb18b")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -14931,7 +14931,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/484263b1-46fa-4795-a90d-0ca95ab628ff")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 1.143)
 			(end 1.524 -1.143)
@@ -15133,7 +15133,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/de0b1e50-0ee1-4795-81f4-3cfa05b4d91c")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -15322,7 +15322,7 @@
 		(path "/1124b763-7640-4b09-aea5-ce6e0202cf68")
 		(sheetname "/")
 		(sheetfile "kbd8x_mkii_kicad_9.0.kicad_sch")
-		(attr smd exclude_from_pos_files)
+		(attr smd)
 		(fp_line
 			(start -0.261252 -0.735)
 			(end 0.261252 -0.735)
@@ -15553,7 +15553,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/49ad861b-a49f-45f8-a9a3-8690f136b6c4")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -15755,7 +15755,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/978b6c6f-0f3c-474a-9f08-fdd5b351fa67")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -15957,7 +15957,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/b5eba9d8-30b8-4e3b-9f9e-8257c3c86112")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -16159,7 +16159,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/7064fc9b-fe06-4ce8-a4b4-191962a9f433")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -16361,7 +16361,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/b98fdddf-aa97-460e-a558-041174643609")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -16563,7 +16563,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/7164888f-f9f1-4843-b230-ff96817e7eeb")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -16765,7 +16765,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/57b997a3-1967-42ad-91b1-66a4de1c004d")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -16967,7 +16967,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/5113ba0d-2625-40c8-80b7-70ff8e438a1d")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -17169,7 +17169,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/0a003518-5887-46c3-b86a-a4a9d1c6aee5")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -17371,7 +17371,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/f817ebd1-505b-4d68-9202-15321574324a")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -17560,7 +17560,7 @@
 		(path "/0bf957ca-8ae0-4c46-96b1-c8ffdddcd0f6")
 		(sheetname "/")
 		(sheetfile "kbd8x_mkii_kicad_9.0.kicad_sch")
-		(attr smd exclude_from_pos_files)
+		(attr smd)
 		(fp_line
 			(start -0.227064 0.735)
 			(end 0.227064 0.735)
@@ -17791,7 +17791,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/53b0057e-fa35-4201-a1c1-86bebf6e3c32")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -17993,7 +17993,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/b12c1f89-5e7a-4c81-853a-19fba18d0d44")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -18195,7 +18195,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/e33cead5-b56a-4370-9652-a9e72c5c5dac")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -18397,7 +18397,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/2a6219db-da94-43c5-8ebc-87099239c900")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 1.143)
 			(end 1.524 -1.143)
@@ -18599,7 +18599,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/6d75077b-0164-4d74-8bf2-cb9a53ea9fa1")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -18801,7 +18801,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/c5b9ef90-3be4-41f4-9eb8-a7c1561f1b20")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -18972,7 +18972,7 @@
 		(path "/93371e59-b8a5-4811-9b41-15289b60a752")
 		(sheetname "/")
 		(sheetfile "kbd8x_mkii_kicad_9.0.kicad_sch")
-		(attr exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 2.5 -1.25)
 			(end 2.5 -3.75)
@@ -19240,7 +19240,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/557927d0-c5bc-49af-aad4-6cc7667cbac3")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -19442,7 +19442,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/e4a3f9bb-2d2b-4fa3-a2e7-3b18e184d0bc")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -19631,7 +19631,7 @@
 		(path "/38ad9c32-5032-4ad6-965e-98edcb40bc97")
 		(sheetname "/")
 		(sheetfile "kbd8x_mkii_kicad_9.0.kicad_sch")
-		(attr smd exclude_from_pos_files)
+		(attr smd)
 		(fp_line
 			(start -0.227064 0.735)
 			(end 0.227064 0.735)
@@ -19862,7 +19862,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/fd67fb02-7651-407a-96a3-60b4a4ea951e")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -20064,7 +20064,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/7f39bd95-303c-4fe5-a551-79204b1caff5")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -20253,7 +20253,7 @@
 		(path "/d3e63065-9425-40df-98a5-9773a39d943e")
 		(sheetname "/")
 		(sheetfile "kbd8x_mkii_kicad_9.0.kicad_sch")
-		(attr smd exclude_from_pos_files)
+		(attr smd)
 		(fp_line
 			(start -5.175 5.175)
 			(end -4.5 5.175)
@@ -20925,7 +20925,7 @@
 		(path "/ee161943-4035-4693-95f5-ec658ffe2dd2")
 		(sheetname "/")
 		(sheetfile "kbd8x_mkii_kicad_9.0.kicad_sch")
-		(attr smd exclude_from_pos_files)
+		(attr smd)
 		(fp_line
 			(start -4.47 0)
 			(end -4.47 7.3)
@@ -21221,7 +21221,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/7a444a57-5831-4435-968e-7ad219bb38cc")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -21423,7 +21423,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/417ca402-fab0-4071-a00c-1aa66499545e")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -21625,7 +21625,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/fbd0cfbf-1bce-4c89-8874-451afe463b56")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -21827,7 +21827,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/806c4203-3a25-40fd-9d18-50b18b858565")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -22029,7 +22029,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/2bb88d3d-3982-4a75-9dd7-87f05bf19e2d")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -22231,7 +22231,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/1ce5b951-9b93-4e0c-a160-ce48d1ec4fd8")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -22433,7 +22433,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/2b9f4b66-0fc7-4792-9b61-2ea0ed80740f")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -22635,7 +22635,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/03615de3-af02-4e19-8aec-22eaae307cf9")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -22837,7 +22837,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/62d82b63-4e14-4f5d-8660-277f82d70730")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -23021,7 +23021,7 @@
 		(path "/8bbd84d2-3716-4bb2-85c9-3301dee0f36c")
 		(sheetname "/")
 		(sheetfile "kbd8x_mkii_kicad_9.0.kicad_sch")
-		(attr smd exclude_from_bom)
+		(attr smd exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 0.65 1.45)
 			(end 0.65 -1.45)
@@ -23298,7 +23298,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/97581693-5d13-4772-99ac-befce775e429")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -23487,7 +23487,7 @@
 		(path "/b07b0c51-6ed0-4eab-b8c7-24268a18dd55")
 		(sheetname "/")
 		(sheetfile "kbd8x_mkii_kicad_9.0.kicad_sch")
-		(attr smd exclude_from_pos_files)
+		(attr smd)
 		(fp_line
 			(start -0.261252 0.735)
 			(end 0.261252 0.735)
@@ -23718,7 +23718,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/330e8aa3-dec9-4e3a-9a09-dc0bef98e4f8")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -23920,7 +23920,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/79f1bf5e-b2f4-4bd2-b49d-53154a780987")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -24109,7 +24109,7 @@
 		(path "/44688c99-9f8d-44ac-8e27-a243813cdebb")
 		(sheetname "/")
 		(sheetfile "kbd8x_mkii_kicad_9.0.kicad_sch")
-		(attr smd exclude_from_pos_files)
+		(attr smd)
 		(fp_line
 			(start -0.227064 0.735)
 			(end 0.227064 0.735)
@@ -24340,7 +24340,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/19674158-3d4b-4512-a355-37c556dcd6df")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -24542,7 +24542,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/e1551afb-90c2-4d9d-b31e-b2ccf97deaef")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -24744,7 +24744,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/b8626827-fdf4-4238-a156-6ab5e87f755c")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -24946,7 +24946,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/33612750-525a-4974-8790-c0528b9139b4")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -25135,7 +25135,7 @@
 		(path "/491e226c-2b01-41f2-bc51-cc125b29658a")
 		(sheetname "/")
 		(sheetfile "kbd8x_mkii_kicad_9.0.kicad_sch")
-		(attr smd exclude_from_bom)
+		(attr smd exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -0.261252 0.735)
 			(end 0.261252 0.735)
@@ -25366,7 +25366,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/72a1c24c-0af9-49fe-8676-ebfda29aff23")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -25568,7 +25568,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/f881061c-bc59-4b74-a4d3-4966cc39a462")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -25770,7 +25770,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/95706253-0a6b-4bd2-ba39-435efce7488c")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -25972,7 +25972,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/8c63abbd-dee6-48ae-baa6-cf71152f3dbc")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -26174,7 +26174,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/5fabd7be-5343-4c33-84ba-e8c3ee6dc35d")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -26376,7 +26376,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/e49885f0-8fdd-432f-9928-73c843532240")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -26578,7 +26578,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/bfed8ea0-b94d-42f1-8bf7-9339c64f95de")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -26780,7 +26780,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/7bfbceac-bf50-4dd8-a630-d869bb14e42f")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -26982,7 +26982,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/cdabf1a1-8226-4713-85fc-1cbc595412fb")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -27184,7 +27184,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/70267720-880d-45de-9a24-decf7032501c")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -27386,7 +27386,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/503eaf7e-118e-49ac-884d-322a46e1c8c9")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -27588,7 +27588,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/37383bec-55f0-450f-8a2f-cd1bb7b00012")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -27777,7 +27777,7 @@
 		(path "/77f14a1f-ccd7-4d0f-b78c-c198635bce1f")
 		(sheetname "/")
 		(sheetfile "kbd8x_mkii_kicad_9.0.kicad_sch")
-		(attr smd exclude_from_pos_files)
+		(attr smd)
 		(fp_line
 			(start -2 -1.65)
 			(end 2 -1.65)
@@ -28036,7 +28036,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/a2da00e3-fc5a-4bc8-9e7b-4b8e11e2ee86")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -28238,7 +28238,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/300db758-89ce-4a06-bda2-6abdb0d1c8f8")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 1.143)
 			(end 1.524 -1.143)
@@ -28440,7 +28440,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/a87280a8-1ea8-4d42-b167-e7cad2a71861")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -28642,7 +28642,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/ee7a7df1-4060-4f69-8e79-cdbd767d0491")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -28831,7 +28831,7 @@
 		(path "/14984ad7-8974-43ed-94cd-a907a3ef454b")
 		(sheetname "/")
 		(sheetfile "kbd8x_mkii_kicad_9.0.kicad_sch")
-		(attr smd exclude_from_bom)
+		(attr smd exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start -0.261252 -0.735)
 			(end 0.261252 -0.735)
@@ -29062,7 +29062,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/34db8368-5e13-4bad-95e4-5674e61fb7a6")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -29251,7 +29251,7 @@
 		(path "/0615cb65-a351-4743-9cc4-1b83ebe622d8")
 		(sheetname "/")
 		(sheetfile "kbd8x_mkii_kicad_9.0.kicad_sch")
-		(attr smd exclude_from_pos_files)
+		(attr smd)
 		(fp_line
 			(start -0.261252 0.735)
 			(end 0.261252 0.735)
@@ -29482,7 +29482,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/b17e7df7-1dfe-4585-a36e-c7fa39c0663c")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -29684,7 +29684,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/b41c8f80-e55d-48f9-ad53-1ff54c1dafb7")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -29886,7 +29886,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/1b7cb566-1fef-40f3-8ac4-2af57a0320ca")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -30088,7 +30088,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/1a81503f-1609-4c62-b544-46072b4859ad")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -30290,7 +30290,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/2e069b98-4cb3-45cb-bcda-dea85560b32c")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -30492,7 +30492,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/cb07fadd-2bfd-4c17-bd21-82cf42147460")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -30694,7 +30694,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/4f87d65f-7943-4956-8369-2b24fffd6be3")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -30870,7 +30870,7 @@
 		(path "/76ca85dd-547d-44de-bde8-0ebd871551d7")
 		(sheetname "/")
 		(sheetfile "kbd8x_mkii_kicad_9.0.kicad_sch")
-		(attr smd exclude_from_bom)
+		(attr smd exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.45 -2.72)
 			(end 1.94 -2.23)
@@ -31405,7 +31405,7 @@
 		(path "/170f5148-8aac-487c-ae12-e0947b9452b5")
 		(sheetname "/")
 		(sheetfile "kbd8x_mkii_kicad_9.0.kicad_sch")
-		(attr smd exclude_from_pos_files)
+		(attr smd)
 		(fp_line
 			(start -0.227064 -0.735)
 			(end 0.227064 -0.735)
@@ -31636,7 +31636,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/7b04c342-ba9e-4be9-9984-97dae29b80ff")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -31838,7 +31838,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/a707c913-84cf-40a8-843c-104929437ac9")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -32040,7 +32040,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/b554565b-45a6-4440-a541-61991e517160")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -32242,7 +32242,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/74ca6c99-c0d4-4f4e-92a3-97debff25e1d")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -32444,7 +32444,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/83e2d76c-1d5b-4566-972c-a67dce5d38b6")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -32646,7 +32646,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/f2eb2eb7-9268-477c-bb5a-1be43cc47970")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -32848,7 +32848,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/315c062e-4bcc-4b04-b91e-c9305b5c12e1")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 1.143)
 			(end 1.524 -1.143)
@@ -33050,7 +33050,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/4b07c9be-a8b4-466c-874d-8ea71b3e3f1c")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -33252,7 +33252,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/81d4db69-d0fd-4b7c-bf2c-dcc0620b20d1")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -33454,7 +33454,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/b0c2f730-5cab-4128-acb0-46c225be397f")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -33656,7 +33656,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/a435a415-7faa-4e44-b6bf-0dda19048139")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -33845,7 +33845,7 @@
 		(path "/3f9063b2-a753-4305-b4fb-ad012ec61c41")
 		(sheetname "/")
 		(sheetfile "kbd8x_mkii_kicad_9.0.kicad_sch")
-		(attr smd exclude_from_pos_files)
+		(attr smd)
 		(fp_line
 			(start -0.227064 0.735)
 			(end 0.227064 0.735)
@@ -34076,7 +34076,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/f482088a-1d38-43e3-9252-3487e15781ec")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -34278,7 +34278,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/f3dbc84f-e2d4-48d9-96e3-9995d69e4eea")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 1.143)
 			(end 1.524 -1.143)
@@ -34480,7 +34480,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/cce20b38-9fc1-4335-9370-247ab212fc22")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -34669,7 +34669,7 @@
 		(path "/f9045814-7580-4418-a12e-b24161085f14")
 		(sheetname "/")
 		(sheetfile "kbd8x_mkii_kicad_9.0.kicad_sch")
-		(attr smd exclude_from_pos_files)
+		(attr smd)
 		(fp_line
 			(start -0.227064 0.735)
 			(end 0.227064 0.735)
@@ -34900,7 +34900,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/06920b21-20e2-4654-a0f6-f4fe81fdeead")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
@@ -35102,7 +35102,7 @@
 		(path "/4be3ce19-8160-4417-ae78-54694ef9d3e3/d84ba19c-7175-46e6-9a56-d7469f656d6b")
 		(sheetname "/matrix/")
 		(sheetfile "matrix.kicad_sch")
-		(attr through_hole exclude_from_bom)
+		(attr through_hole exclude_from_pos_files exclude_from_bom)
 		(fp_line
 			(start 1.524 -1.143)
 			(end -1.524 -1.143)
