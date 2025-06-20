@@ -42,3 +42,6 @@ I've been a mechanical keyboard hobbyist for a while now (a decade?), and I've w
 
 - Layout/PCB (MCU)
 <img src="attachments/kbd8x_mkii_si_pcb_mcu.png" width="100%"/>
+
+## Notes 
+- If shims are needed, these could be an option: [Clipped Washer 18-8 Stainless Steel, for M2 Screw Size, 2.200 mm ID, 4.500 mm OD](https://www.mcmaster.com/96025A268/)
