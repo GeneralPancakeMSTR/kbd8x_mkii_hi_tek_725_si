@@ -18,11 +18,11 @@ This PCB is specifically designed for use with [NMB Hi-Tek Series 725 "Space Inv
 I've been a mechanical keyboard hobbyist for a while now (a decade?), and I've wanted to make my own keyboard about from the beginning. The hangup for me has always been the PCB, so instead of trying to make an expensive CNC case and (hopefully) figuring out the PCB later, I finally decided that to push that particular project forward I would learn the PCB side of things and then revisit the case aspect with some new knowledge and experience under my belt. 
 
 ## Reference Photos 
-- PCB Bottom
-<img src="attachments/kbd8x_mkii_si_3d_bottom.png" width="100%"/>
-
 - PCB Top 
 <img src="attachments/kbd8x_mkii_si_3d_top.png" width="100%"/>
+
+- PCB Bottom
+<img src="attachments/kbd8x_mkii_si_3d_bottom.png" width="100%"/>
 
 - Schematic (Logic)
 <img src="attachments/kbd8x_mkii_si_schematic.png" width="100%"/>
@@ -45,3 +45,5 @@ I've been a mechanical keyboard hobbyist for a while now (a decade?), and I've w
 
 ## Notes 
 - If shims are needed, these could be an option: [Clipped Washer 18-8 Stainless Steel, for M2 Screw Size, 2.200 mm ID, 4.500 mm OD](https://www.mcmaster.com/96025A268/)
+
+- **IMPORTANT**: The placement of the Atmega32u4 in JLCPCB's PCBA may be wrong and need to be rotated. If you are getting this PCB made with PCBA, **quadruple check the placement of all of the components.**
